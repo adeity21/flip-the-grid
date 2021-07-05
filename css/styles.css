@@ -1,0 +1,89 @@
+body{
+  background-color: black;
+}
+
+
+
+h1{
+
+  text-align: center;
+  text-decoration: underline;
+font-family: 'Merriweather', serif;
+color:#EC9EC0;
+}
+h2{
+  text-align: center;
+  color: #FF0080;
+}
+.score{
+   position: relative;
+   top:200px;
+   text-align: center;
+   border-style: solid;
+   border-color: pink;
+   border-width: 10px;
+   border-radius: 100%;
+   font-size: 40px;
+
+color:#FF0080;
+ }
+
+ .copyright{
+   color: white;
+   font-size: 1rem;
+   padding:20px 0;
+ }
+.grid{
+
+position: relative;
+top:300px;
+text-align: center;
+padding: 20px 0;
+font-size: 30px;
+
+
+}
+
+.top-container{
+
+  padding-top: 20px;
+}
+.bottom-container{
+  position: relative;
+  top:600px;
+  background-color: #EC9EC0;
+  padding:50px 0 20px;
+  text-align: center;
+
+}
+
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+    border-radius: 100%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-github{
+  background: black;
+  color: white;
+
+}
